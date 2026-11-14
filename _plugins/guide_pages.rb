@@ -73,7 +73,7 @@ module Authoria
             release_number == 1 ? "#{heading}#{notes}" : "#{heading}<details><summary>Full release notes</summary>#{notes}</details>"
           end
         end
-        html.gsub!(%r{https://github\.com/Drheisen1/Authoria-Requiem-Reforged/(?:blob|edit)/main/([^"#?\s<>]+)}) do |url|
+        html.gsub!(%r{https://github\.com/(?:Drheisen1|Authoria-Modding)/Authoria-Requiem-Reforged/(?:blob|edit)/main/([^"#?\s<>]+)}) do |url|
           target = URI::DEFAULT_PARSER.unescape(Regexp.last_match(1))
           if target == "README.md"
             "#{base}/"
@@ -81,7 +81,7 @@ module Authoria
             GUIDES.key?(target) ? "#{base}/#{GUIDES[target][0]}.html" : url
           end
         end
-        html.gsub!(%r{https://raw\.githubusercontent\.com/Drheisen1/Authoria-Requiem-Reforged/main/Resources/}, "#{base}/Resources/")
+        html.gsub!(%r{https://raw\.githubusercontent\.com/(?:Drheisen1|Authoria-Modding)/Authoria-Requiem-Reforged/main/Resources/}, "#{base}/Resources/")
         GUIDES.each do |source, (target, *)|
           html.gsub!(/href="#{Regexp.escape(source)}(?=["#])/, "href=\"#{base}/#{target}.html")
         end

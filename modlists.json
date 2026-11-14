@@ -22,12 +22,12 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Drheisen1/Authoria-Requiem-Reforged/main/Resources/wabbaimage_new.png",
-      "readme": "https://github.com/Drheisen1/Authoria-Requiem-Reforged/blob/main/README.md",
+      "image": "https://raw.githubusercontent.com/Authoria-Modding/Authoria-Requiem-Reforged/main/Resources/wabbaimage_new.png",
+      "readme": "https://github.com/Authoria-Modding/Authoria-Requiem-Reforged/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Authoria - Requiem Reforged.wabbajack_baf70b16-c66e-4116-b894-a9b7484cec19",
       "machineURL": "AuthoriaRequiemReforged",
       "discordURL": "https://discord.gg/J6VkyeXDUv",
-      "websiteURL": "https://drheisen1.github.io/Authoria-Requiem-Reforged"
+      "websiteURL": "https://authoria-modding.github.io/Authoria-Requiem-Reforged"
     },
     "download_metadata": {
       "Hash": "JzviFiIUAuI=",

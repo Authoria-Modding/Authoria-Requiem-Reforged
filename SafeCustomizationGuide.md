@@ -50,7 +50,7 @@ Disabling a mod in a profile and deleting its installed folder are different act
 
 Create separately named output mods for personal tool runs when storage permits, and check the destination before starting each tool. A custom profile alone does not redirect tool output paths or protect the files in a shipped output mod.
 
-Follow the [Tool Running Guide](https://github.com/Drheisen1/Authoria-Requiem-Reforged/blob/main/Authoria_Tool_Running_Guide.md) for Authoria's tool-specific instructions, output paths, plugin names, rerun conditions, and order. Do not replace those procedures with a generic tool checklist.
+Follow the [Tool Running Guide](https://github.com/Authoria-Modding/Authoria-Requiem-Reforged/blob/main/Authoria_Tool_Running_Guide.md) for Authoria's tool-specific instructions, output paths, plugin names, rerun conditions, and order. Do not replace those procedures with a generic tool checklist.
 
 The existing guide permits reusing Pandora outputs and replacing original LOD output contents when space is limited. Those allowances remain. If you choose them, the original profile no longer provides an untouched copy of the replaced shared output files. Decide how you will restore those files before overwriting or deleting them.
 
@@ -85,7 +85,7 @@ When investigating a problem, identify the personal changes and the guide versio
 ## Related guides
 
 - [Post-installation & Official Options](PostInstallationGuide.md): included options and first-launch preparation.
-- [Tool Running Guide](https://github.com/Drheisen1/Authoria-Requiem-Reforged/blob/main/Authoria_Tool_Running_Guide.md): the existing separate technical guide.
+- [Tool Running Guide](https://github.com/Authoria-Modding/Authoria-Requiem-Reforged/blob/main/Authoria_Tool_Running_Guide.md): the existing separate technical guide.
 - [Performance Profile Guide](PerformanceProfileGuide.md): placeholder for Authoria 2.9.10.
 - [Rule 11 Video Guides](https://www.youtube.com/playlist?list=PLF-HXyx5H2BMhZjI4aq2aBsvNlsSdrWX_).
 

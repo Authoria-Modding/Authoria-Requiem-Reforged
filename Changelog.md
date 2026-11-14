@@ -3,7 +3,7 @@
 > - **UBE gear fitting overhaul**: far more armour shows and fits on UBE
 > - **Better controller support**
 > - **Faster levelling and skills**, with an optional slower setting
-> - **[Gameplay Guide](https://github.com/Drheisen1/Authoria-Requiem-Reforged/blob/main/GameplayGuide.md) rewritten and expanded**
+> - **[Gameplay Guide](https://github.com/Authoria-Modding/Authoria-Requiem-Reforged/blob/main/GameplayGuide.md) rewritten and expanded**
 > - **20+ bug fixes**
 
 # Added
@@ -467,7 +467,7 @@
 - Attmept to fix up khajiits schlong color, this is the best i could do with my limited blender skills, if a modeler wants to step up he is welcome to, please dont report this.
 
 * About the UBE conversions:
-  * The [tool running guide](https://github.com/Drheisen1/Authoria-Requiem-Reforged/blob/main/Authoria_Tool_Running_Guide.md) has been updated, check it for a full guide on how to run the tool, it ships with the list now
+  * The [tool running guide](https://github.com/Authoria-Modding/Authoria-Requiem-Reforged/blob/main/Authoria_Tool_Running_Guide.md) has been updated, check it for a full guide on how to run the tool, it ships with the list now
   * Alot of armors should be fixed already, Some armors are not perfect, manual fixing on the armors will depend on how bad the issue is, priority is given to armors that crash the game or armors that are seriously messed up.
     * for example: common clothes at the start of the game -> i see no reason to waste time converting it, as the player switches armors after he starts 99% of the time.
     * please keep that in mind when reporting issues with armors.

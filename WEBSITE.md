@@ -34,7 +34,7 @@ Restart the server after editing `_config.yml` or `_plugins/guide_pages.rb`.
    select **GitHub Actions** as the source.
 3. In Actions, run **Publish guidebook** if it has not already started.
 
-Website: https://drheisen1.github.io/Authoria-Requiem-Reforged/
+Website: https://authoria-modding.github.io/Authoria-Requiem-Reforged/
 
 Use the Actions source, rather than Deploy from a branch: this website
 generates its guide pages using a small Jekyll plugin.

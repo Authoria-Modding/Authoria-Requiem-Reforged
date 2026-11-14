@@ -104,7 +104,7 @@ Before you begin, make sure you meet the following **hard requirements**:
 
 7. **While Wabbajack is running:**
    - Join the [Discord server](https://discord.gg/J6VkyeXDUv) and ask any questions you might have.
-   - Review the [Gameplay Guide](https://github.com/Drheisen1/Authoria-Requiem-Reforged/blob/main/GameplayGuide.md)
+   - Review the [Gameplay Guide](https://github.com/Authoria-Modding/Authoria-Requiem-Reforged/blob/main/GameplayGuide.md)
 
 ## After installation
 
